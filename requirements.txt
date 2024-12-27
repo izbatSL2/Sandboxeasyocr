@@ -1,0 +1,11 @@
+easyocr==1.7.2
+fastapi==0.115.6
+fastapi-cli==0.0.7
+numpy==1.26.4
+opencv-python==4.10.0.84
+opencv-python-headless==4.10.0.84
+pydantic==2.10.4
+pydantic_core==2.27.2
+requests==2.32.3
+requests-oauthlib==2.0.0
+tenacity==9.0.0
